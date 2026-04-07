@@ -14,6 +14,7 @@
       "name": "🎬首页｜热播",
       "type": 3,
       "api": "csp_Douban",
+      "jar": "https://fongmitv.gaoops.top/spider_gao.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
