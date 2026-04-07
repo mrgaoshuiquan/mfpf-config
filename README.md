@@ -34,7 +34,7 @@ https://juhuangapi.gaoops.top/
 3. Enter the following configuration URL:
 
 ```
-https://juhuangapi.gaoops.top/
+http://tvbox-public.gaoops.top/
 ```
 
 4. Save and wait for the configuration to load
