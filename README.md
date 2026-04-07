@@ -22,7 +22,7 @@ This repository contains a personal TVBox / 影视仓 configuration with aggrega
 3. 填入以下配置地址：
 
 ```
-https://juhuangapi.gaoops.top/
+http://tvbox-public.gaoops.top/
 ```
 
 4. 保存后等待加载完成即可
