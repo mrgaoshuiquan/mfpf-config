@@ -10,7 +10,7 @@
   ],
   "sites": [
    {
-      "key": "点我切源",
+      "key": "点我切换播放源",
       "name": "🎬首页｜热播",
       "type": 3,
       "api": "csp_Douban",
