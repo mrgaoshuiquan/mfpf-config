@@ -34,7 +34,7 @@ https://juhuangapi.gaoops.top/
 3. Enter the following configuration URL:
 
 ```
-[https://raw.githubusercontent.com/mrgaoshuiquan/mfpf-config/main/mfpf.json](https://juhuangapi.gaoops.top/)
+https://juhuangapi.gaoops.top/
 ```
 
 4. Save and wait for the configuration to load
