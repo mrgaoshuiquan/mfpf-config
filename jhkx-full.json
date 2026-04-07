@@ -652,6 +652,8 @@
       "name": "Kimentanm",
       "type": 0,
       "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "epg": "http://epg.51zmt.top:8000/e.xml.gz",
+      "logo": "https://live.fanmingming.com/tv/logo"
       "playerType": 2
     },
     {
