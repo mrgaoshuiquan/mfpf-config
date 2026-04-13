@@ -22,7 +22,7 @@ This repository contains a personal TVBox / 影视仓 configuration with aggrega
 3. 填入以下配置地址：
 
 ```
-http://tvbox-public.gaoops.top/
+https://tvbox-public.gaoops.top/
 ```
 
 4. 保存后等待加载完成即可
@@ -34,7 +34,7 @@ http://tvbox-public.gaoops.top/
 3. Enter the following configuration URL:
 
 ```
-http://tvbox-public.gaoops.top/
+https://tvbox-public.gaoops.top/
 ```
 
 4. Save and wait for the configuration to load
