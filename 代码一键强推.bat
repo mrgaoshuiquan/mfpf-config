@@ -9,7 +9,7 @@ echo.
 
 git add .
 
-git commit -m "backup source: %date% %time%"
+git commit -m "更新jar文件: %date% %time%"
 
 echo.
 echo 📤 推送到 GitHub...
