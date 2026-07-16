@@ -6,7 +6,7 @@
 [![影视仓](https://img.shields.io/badge/支持-影视仓-2ec4a0?style=flat-square&labelColor=1a1b27)](https://ysctvbox.github.io/)
 
 ### 支持 TVBox · 影视仓 · FongMi TV 等客户端
-### 推荐客户端：[FongMi TV(支持弹幕)](https://github.com/FongMi/Release)
+### 推荐客户端：[FongMi TV(支持弹幕)](https://github.com/FongMi/Release/tree/fongmi/apk)
 
 > 个人影视仓 / TVBox 配置文件，基于 [饭太硬](https://github.com/qist/tvbox) 大神配置修改。  
 > Personal TVBox configuration, based on [qist/tvbox](https://github.com/qist/tvbox).
